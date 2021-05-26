@@ -4,5 +4,8 @@ Arranges images on two or three dimensional grid by calculating an arbitrary pai
 
 In this demo the pairwise cost is simple euclidean distance and the images are MNIST digits.
 
-# Credits
+## Use
+Start http server from folder.
+
+## Credits
 * threejs - http://threejs.org
